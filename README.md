@@ -31,18 +31,11 @@ Go to Project Settings > General to find your Web API Key. You will need this to
 
 3. Local Setup
 Clone the repository:
+   ```bash
+   git clone [https://github.com/kapoios123/ai-nexus.git](https://github.com/kapoios123/ai-nexus.git)
+   pip install -r requirements.txt
+   streamlit run main.py
 
-Bash
-git clone https://github.com/kapoios123/ai-nexus.git
-cd ai-nexus
-Install the required dependencies:
-
-Bash
-pip install -r requirements.txt
-Run the application:
-
-Bash
-streamlit run main.py
 4. How to use it
 Once the browser opens, enter your Firebase Web API Key.
 
