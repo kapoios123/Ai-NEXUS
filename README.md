@@ -33,7 +33,7 @@ Go to Project Settings > General to find your Web API Key. You will need this to
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/ai-nexus.git
+git clone https://github.com/kapoios123/ai-nexus.git
 cd ai-nexus
 Install the required dependencies:
 
